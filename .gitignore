@@ -105,3 +105,5 @@ build-release/
 bin/
 .idea/
 build/
+/cmake-build-debug-visual-studio/
+/cmake-build-release-visual-studio/
